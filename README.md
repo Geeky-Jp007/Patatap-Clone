@@ -7,4 +7,4 @@ This project is made with:
 5. Paperjs
 ### By pressing any key from A-Z, it shows circle animation with sounds.
 Have fun!
-![Todo List](patap.png)
+![Patatap](patatap.png)
